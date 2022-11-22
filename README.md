@@ -13,4 +13,4 @@ For this I am using two main techniques :
 
 i) Optical Character Recognition using PYTESSERACT : Using this we will extract details like device name,refs,lots and quantity.
 
-ii) Template matching : We are using template matching technique to find the coordinates of symbols based on the symbol templates.
+ii) Template matching : We are using template matching technique to find the coordinates of symbols using the symbol templates.
