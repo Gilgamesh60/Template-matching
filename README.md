@@ -11,6 +11,6 @@ We want to extract the device name,ref,lots and quantity. Also we want to get a 
 For this I am using two main techniques :
 
 
-i) Optical Character Recognition using PYTESSERACT : Using this we will extract details like device name,refs,lots and quantity.
+i) Optical character recognition using Pytesseract : Using this we will extract details like device name,refs,lots and quantity.
 
 ii) Template matching : We are using template matching technique to find the coordinates of symbols using the symbol templates.
